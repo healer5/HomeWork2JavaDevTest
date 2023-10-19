@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SumCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-10-19T13:16:01" hostname="HELENA" time="0.048">
+  <properties/>
+  <testcase name="testSumWith1()" classname="org.example.SumCalculatorTest" time="0.038"/>
+  <testcase name="testSumWith3()" classname="org.example.SumCalculatorTest" time="0.002"/>
+  <testcase name="testSumWithZero()" classname="org.example.SumCalculatorTest" time="0.004"/>
+  <system-out><![CDATA[1
+6
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
